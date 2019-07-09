@@ -7,4 +7,4 @@
 |text1 |text1 |text1 |
 |------|:----:|-----:|
 |txt1  |txt1  |txt1  |
-|txt1  |txt1  |txt1  |
+|txt1  |txt   |txt1  |
